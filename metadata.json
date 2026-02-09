@@ -1,0 +1,8 @@
+{
+  "name": "Mèo Toán 8 – AI Math Tutor",
+  "description": "An interactive AI-powered math tutor specializing in Grade 8 algebraic identities, featuring chat, image recognition for math problems, and personalized practice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
